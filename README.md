@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Olá, eu sou a Marine!
+🎓 Formação: Estudante de Análise e Desenvolvimento de Sistemas (ADS) – Cruzeiro do Sul / UNICID.
+💻 Foco: Front-end | UI/UX Design | Cibersegurança.
 
-<!--
-**Marinedacunha/Marinedacunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Estudos atuais:
+HTML5 (semântico)
+CSS3 (acessível)
+JavaScript (início da aprendizagem)
+freeCodeCamp (Full Stack) | Mimo
 
-Here are some ideas to get you started:
+🌍 Interesses:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Acessibilidade (WCAG)
+SEO
+Green IT
+Design Centrado no Usuário
+Segurança Digital
+
+🧩 Soft Skills:
+Inteligência Emocional
+Comunicação Assertiva
+Empatia
+Trabalho em Equipe
+Adaptabilidade
+
+🎯 Objetivo:
+Aspirante em TI → aprender, crescer e contribuir para soluções digitais que unam eficiência, acessibilidade e segurança.
+
+📌 Aqui no meu GitHub você vai encontrar meus projetos de estudo e prática, que refletem minha evolução no mundo da tecnologia.
+
+🚀 Vamos conectar?
+[LinkedIn](https://www.linkedin.com/in/marine-da-cunha-macedo-37652837a/)
